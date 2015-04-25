@@ -72,4 +72,3 @@ makeCacheMatrix <- function(y = matrix())
 #[1,] -0.6  0.8
 #[2,]  0.4 -0.2
 
-
